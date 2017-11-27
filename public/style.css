@@ -1,0 +1,10 @@
+#text-chat {
+  width: 700px;
+  height: 500px;
+  margin: 10px;
+  border:1px solid blue;
+}
+#chat-window {
+  height: 300px;
+  margin: 10px;
+}
